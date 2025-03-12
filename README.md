@@ -1,10 +1,1 @@
-# GongDongMin.github.io
-
-안녕하세요.
-만나서 반갑습니다.
-여기는 저의 사이트 입니다.
-~~사실 뭘적어야 할지 모르겠어요~~
-**뭐 적지**
-***
-뭐라도 적어야 겠죠? 
-저는 03년생이고요 먹는걸 좋아해요.
+[**homework2-1**](https://GongDongMin.github.io/homework2-1.html)
